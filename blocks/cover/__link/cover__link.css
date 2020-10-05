@@ -2,7 +2,8 @@
   text-decoration: none;
   color: #FFFFFF;    
 }
-
+/*ранее получила комментарий убрать абсолютное позиционирование 
+в псевдокласс- но он ведь и так в нем расположен? не знаю как поправить...*/
 .cover__link::before {
   content: '';
   position: absolute;
