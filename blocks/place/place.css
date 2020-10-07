@@ -11,9 +11,7 @@
   grid-template-columns: 460px 1fr;
   gap: 40px;
 }
-.place:first-of-type {
-  margin: 0 auto;
-}
+
 @media screen and (max-width: 1279px){
   .place{
       gap: 32px;
