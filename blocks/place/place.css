@@ -9,7 +9,6 @@
 .place{
   display: grid;
   grid-template-columns: 1fr 1fr;
-  margin: 80px auto;
   gap: 40px;
 }
 
