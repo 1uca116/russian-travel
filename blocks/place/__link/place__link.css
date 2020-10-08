@@ -4,4 +4,9 @@
   text-decoration-line: underline;
   cursor: pointer;
   color: white;
-  }
+  transition: opacity .2s linear;
+  opacity: 1;
+}
+.place__link:hover {
+  opacity: .6;
+}

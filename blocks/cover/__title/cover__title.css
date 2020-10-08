@@ -7,6 +7,10 @@
     position: relative;
     z-index: 2;
 }
+.cover__title:first-of-type {
+    margin:0;
+    padding:0;
+}
 @media screen and  (max-width: 767px) {
     .cover__title {
         font-size: 32px;
