@@ -6,8 +6,6 @@
     text-align: center;
     position: relative;
     z-index: 2;
-}
-.cover__title:first-of-type {
     margin:0;
     padding:0;
 }
